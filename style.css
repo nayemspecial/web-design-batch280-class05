@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
+section{
+    height: 200px;
+}
+.header {
+    background-color: #f2f2f2;
+}
+.slider {
+    background-color: #f8f8f8;
+}
+#service{
+    background-color: #ddd;
+}
+
+
+.child h1 {
+    font-size: 25px;
+}
+
+.child {
+    width: 300px;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 5px;
+}
+
+.parent {
+    display: flex;
+}
+
+.c1{
+    height: 300px;
+}
+
+.c2{
+    height: 350px;
+}
+.c3{
+    height: 200px;
+}
+.c4{
+    height: 400px;
+}
